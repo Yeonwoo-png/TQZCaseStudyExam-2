@@ -1,54 +1,52 @@
 
 name: Task Creation Template
-about: To create a feature called Feature A for the client's project
-title: 'Feature A'
+about: Describe this issue template's purpose here.
+title: ' '
 labels: ' '
-assignees: 'Eric'
- 
-## Heading level 2 - Task Owner (Responsible) : [Eric]
+assignees: ' '
+  
+## Heading level 2 - Task Owner (Responsible) : [First Name, Last Initial]
 
-## Heading level 2 - Task Assignee (Accountable) : [Eric]
+## Heading level 2 - Task Assignee (Accountable) : [First Name, Last Initial]
 
 ## Heading level 2 - Task Deadline: [MM/DD/YYYY]
 
 ## Heading level 2 - Task Description:
 
-***-I am going to create a feature that shows a greeting message to the user when they first join the website and ask for their name***
+***-Clearly describe the task, includin what needs to be done and why.***
 
-## Heading level 2 - Acceptance Criteria:
+## Heading level 2 - Acceptance Criteria: 
 
-***-When the user first steps into the website the user needs to be greeted and be asked their age without the website breaking***
+***-Define specific criteria that must be set for hte task to be considered complete. This sets clear expectations for the desired outcome***
 
-## Heading level 2 - Estimation:
+## Heading level 2 - Estimation: 
 
-***-This should take maximum 2 hours, maybe I can get this done in 1 hour***
+***-Provide time estimates for each task based on complexity and effort. Use story points or time units (e.g., hours) to estimate. ***
 
-## Heading level 2 - Dependencies:
+## Heading level 2 - Dependencies: 
 
 ***-Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.***
 
-## Heading level 2 - Priority:
+## Heading level 2 - Priority: 
 
-***-My priority right now is cerating a greeting message to the user as that is the first thing they will see when going into the website. The second prioority is to ask for their name and to make a form so that the user can enter their name***
+***-Assign a priority level to each task based on its importance and impact on the project. Prioritze tasks within the backlog or sprint.***
 
-## Heading level 2 - Task Type:
+## Heading level 2 - Task Type: 
 
 ***-Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.***
 
-## Heading level 2 - Subtasks:
+## Heading level 2 - Subtasks: 
 
 ***-Break down larger tasks into smaller, manageable subtasks. This faciliates a more granular approach to tracking progress.***
- 
-## Heading level 2 - Testing Requirements:
+  
+## Heading level 2 - Testing Requirements: 
 
-***-Will need to test if the user gets greeted immediately when stepping into the website and need to test if the user can type in their name in the form***
+***-Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.***
 
-## Heading level 2 - Documentation:
+## Heading level 2 - Documentation: 
 
 ***-Identify any documentation needs associated with the task. This may include code comments, API documentation, or end-user documentation***
 
-## Heading level 2 - Definition of Done:
+## Heading level 2 - Definition of Done: 
 
-***-My feature is done when the greeting message always pops up at the start when the user enters the website. It is also done when the user can put and enter their name into the website. This will only happen with proper testing to make sure nothing can break.***
-
-
+***-Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completeing documentation***
